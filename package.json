@@ -2,6 +2,14 @@
   "name": "simple-koa-todo",
   "version": "0.0.0",
   "license": "MIT",
+  "keywords": [
+    "nx",
+    "koa",
+    "functional programming",
+    "fp",
+    "supertest",
+    "proof of work"
+  ],
   "scripts": {
     "migrate:web": "knex migrate:make -x ts --knexfile apps/web/src/knexfile.ts",
     "rollback:web": "knex migrate:rollback --knexfile apps/web/src/knexfile.ts",
