@@ -1,4 +1,4 @@
-# Todo
+# Simple Koa Todo
 
 This is the simple CRUD todo application.
 
